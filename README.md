@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MentalElement
-- 👀 I’m interested in Device Driver Creating, Development
-- 🌱 I’m currently learning from zero, Visual Studio, WDK,
-- 💞️ I’m looking to collaborate on the learning matters
+- 👀 I’m interested in learning as it makes possible
+- 🌱 I’m currently learning from zero ~ a little of everything
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
